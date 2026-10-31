@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/172643183?v=4&s=240" width="140" alt="1870s" style="border-radius: 50%">
 
-<h1>hey, i'm m aka. muezza👋</h1>
+<h1>hey, i'm m aka. muezza (minecraft ign: st5r)👋</h1>
 
 <p>
   I build <b>Minecraft mods & plugins</b>, <b>Windows desktop tools</b> and the occasional website,<br>
