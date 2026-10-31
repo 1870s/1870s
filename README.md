@@ -5,7 +5,8 @@
 <h1>hey, i'm m 👋</h1>
 
 <p>
-  I build <b>Minecraft mods & plugins</b>, <b>Windows desktop tools</b> and the occasional website.<br>
+  I build <b>Minecraft mods & plugins</b>, <b>Windows desktop tools</b> and the occasional website,<br>
+  and I like digging into how games work under the hood: <b>reverse engineering & CS2 tooling</b> in C/C++.<br>
   Clean UIs, dark themes, and things that just work. Also: i love cats 🐈‍⬛
 </p>
 
@@ -87,6 +88,15 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
 </tr>
 </table>
 
+### 🔒 Behind closed doors
+
+Not everything I build is public. A good part of my work is **CS2 tooling** that stays private: external and internal tools written in **C and C++**, plus a **PHP** loader backend that ties them together. No links here, but it's where most of my low-level experience comes from.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Private](https://img.shields.io/badge/status-private-1f1f1f?style=flat-square&logo=github&logoColor=white)
+
 ---
 
 ## 🛠️ Tech I use
@@ -94,6 +104,9 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
 <p>
   <img src="https://img.shields.io/badge/Java-e76f00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -104,7 +117,7 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-**Minecraft:** NeoForge · Fabric · Paper &nbsp;|&nbsp; **Desktop:** CustomTkinter · PyInstaller &nbsp;|&nbsp; **Web:** HTML · CSS · Cloudflare
+**Minecraft:** NeoForge · Fabric · Paper &nbsp;|&nbsp; **Desktop:** CustomTkinter · PyInstaller &nbsp;|&nbsp; **Web:** HTML · CSS · Cloudflare &nbsp;|&nbsp; **Low-level:** C · C++ · reverse engineering
 
 ---
 
