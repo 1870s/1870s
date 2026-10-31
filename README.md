@@ -20,6 +20,22 @@
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### [🎮 ezclient](https://github.com/ezclient/ezclient)
+
+<a href="https://github.com/ezclient/ezclient"><img src="https://raw.githubusercontent.com/ezclient/ezclient/main/docs/screenshots/launcher-home.jpg" alt="ezclient launcher"></a>
+
+Self-hosted Minecraft launcher and PvP client for **17 versions, from 1.8.9 to 26.3**. The launcher installs Minecraft, Java and Fabric for you, pulls mods, resource packs and shaders from Modrinth, and has a server list with one-click join. In game: 20 draggable HUD modules, zoom, Discord status, 96 cosmetics and your own custom cape, served by a cosmetics backend you run yourself on Cloudflare.
+
+![Java](https://img.shields.io/badge/Java-e76f00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [✨ Drip Cosmetics](https://github.com/DripCosmetics/drip-cosmetics)
@@ -78,6 +94,9 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
 <p>
   <img src="https://img.shields.io/badge/Java-e76f00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
@@ -85,7 +104,7 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-**Minecraft:** NeoForge · Fabric · Paper &nbsp;|&nbsp; **Desktop:** CustomTkinter · PyInstaller &nbsp;|&nbsp; **Web:** HTML · CSS
+**Minecraft:** NeoForge · Fabric · Paper &nbsp;|&nbsp; **Desktop:** CustomTkinter · PyInstaller &nbsp;|&nbsp; **Web:** HTML · CSS · Cloudflare
 
 ---
 
