@@ -93,7 +93,7 @@ Dark-themed desktop app that checks GitHub usernames in bulk — live stats, ins
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1870s&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e5e5e5" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1870s&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e5e5e5" alt="Top languages">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1870s&theme=github_dark" alt="GitHub stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1870s&theme=github_dark" alt="Repos per language">
 
 </div>
