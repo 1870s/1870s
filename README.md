@@ -64,6 +64,22 @@ Modern Steam account manager for Windows — one-click switching between dozens 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+
+### [🎯 PvP Coach](https://github.com/1870s/pvp-coach)
+
+<a href="https://github.com/1870s/pvp-coach"><img src="https://raw.githubusercontent.com/1870s/pvp-coach/main/docs/images/report.png" width="600" alt="PvP Coach fight report"></a>
+
+Your personal PvP trainer for **Minecraft 26.1 – 26.3** on **Fabric & NeoForge**. It watches your fights and spots your mistakes: weak hits, missed sprint resets, combos you didn't break, slow re-totems. After every fight you get a score from 0 to 100 and tips on what to fix next. A progress page tracks your score and most common mistakes over time. Client-side only, so it works on any server.
+
+![Java](https://img.shields.io/badge/Java-e76f00?style=flat-square&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square)
+![NeoForge](https://img.shields.io/badge/NeoForge-E07B39?style=flat-square)
+[![Release](https://img.shields.io/github/v/release/1870s/pvp-coach?style=flat-square&label=release)](https://github.com/1870s/pvp-coach/releases/latest)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [🪓 Timber](https://github.com/1870s/Timber)
