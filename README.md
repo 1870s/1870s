@@ -10,7 +10,7 @@
   Clean UIs, dark themes, and things that just work. Also: i love cats 🐈‍⬛
 </p>
 
-<a href="https://muezza.at/"><img src="https://img.shields.io/badge/website-muezza.cc-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="muezza.cc"></a>
+<a href="https://muezza.cc/"><img src="https://img.shields.io/badge/website-muezza.cc-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="muezza.cc"></a>
 <a href="https://github.com/1870s?tab=repositories"><img src="https://img.shields.io/badge/repos-browse-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
 </div>
